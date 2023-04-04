@@ -29,7 +29,7 @@ Conditioner = ['thermocool', 'orange', 'scanfrost', 'hisense']
                
 
 
-common_elements = set(Colors).intersection(Fruits,Phone,Drinks,Laptop,Makeup,Coffee)
+common_elements = set(Colors).intersection(Fruits,Phone,Drinks,Laptop,Makeup,Coffee,Software,Tablet,Conditioner)
 
 def cohort_four():
     if common_elements:
