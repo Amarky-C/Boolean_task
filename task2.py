@@ -19,6 +19,6 @@ def cohort_four():
     if common_elements:
         print('True!', 'The common elements are', common_elements)
     else:
-        print('False!', 'There are no common elements')
+        print('False!', 'There are no common elements', common_elements)
     
 cohort_four()
